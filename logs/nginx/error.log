@@ -1,0 +1,4 @@
+2022/02/01 14:57:31 [alert] 11048#572: OpenEvent("ngx_master_8644") failed (2: The system cannot find the file specified)
+2022/02/01 14:57:57 [alert] 7240#7236: the event "ngx_master_7240" was not signaled for 5s
+2022/02/05 15:35:34 [alert] 10772#2800: the event "ngx_master_10772" was not signaled for 5s
+2022/02/05 15:35:44 [alert] 11468#10196: the event "ngx_master_11468" was not signaled for 5s
